@@ -11,3 +11,10 @@ http://www.mathsisfun.com/temperature-conversion.html
 */
 
 // write your solution here...
+
+var celsiusTemp = 33;
+var celsiusToF = (celsiusTemp * 9)/5 + 32;
+alert(celsiusTemp + "°C is " + celsiusToF + " °F ");
+var fahrenheitTemp = 33;
+var fahrenheitToC = (fahrenheitTemp * 5)/9;
+ alert(fahrenheitTemp + "°F is " + fahrenheitToC + " °C ");
