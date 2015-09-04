@@ -17,4 +17,4 @@ var partnerName = "Lauren";
 var geoLocation = "Miami";
 var jobTitle = "Hacker";
 
-console.log("You will be a " + jobTitle + "in " + geoLocation + ", and married to " + partnerName + "with " + numOfChildren + "kids");
+console.log("You will be a " + jobTitle + " in " + geoLocation + ", and married to " + partnerName + " with " + numOfChildren + " kids ");
