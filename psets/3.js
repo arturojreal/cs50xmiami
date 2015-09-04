@@ -10,3 +10,10 @@ http://math2.org/math/geometry/circles.htm
 */
 
 // write your solution here...
+
+var radius = 18;
+var pi = 3.141592
+var circumference = radius * 2*pi;
+alert("The circumference is " + circumference);
+var area = pi * Math.pow(radius, 2);
+alert("The area is " + area);
