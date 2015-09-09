@@ -12,4 +12,9 @@ For example:
 
 function drEvil(amount) {
   // write your solution here...
+  var amount = prompt("Enter an amount. (Usage: 42)");
+  if (amount != 1000000) {
+      return amount + "dollars";
+  }
+  else return amount + "dollars";
 }
